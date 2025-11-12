@@ -1,5 +1,6 @@
 # Minecraft: Cosmic Age!
 
+<img src=./graphics/logo/logo_3x2.png style="max-width: 50%;">
 
 ## Description
   Explore the universe by building self sustainable automation lines on planets inorder to keep you allive. 
