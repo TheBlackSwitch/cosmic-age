@@ -1,11 +1,8 @@
-# Minecraft Beet project template
+# Minecraft: Cosmic Age!
+## Description
+  Explore the universe by building self sustainable automation lines on planets inorder to keep you allive. 
+  
+  This mod aims to add tons of unique planets for the player to explore whilst also giving some automation / factory building vibes.
+  On every planet you will have to automate the things that keep you allive whilst also constructing a new / better space ship to leave the planet and travel even deeper into space.
+  
 
-A pre-configured GitHub template to quickly set up your [Beet](https://www.github.com/mcbeet/beet) project.
-
-I've edited it to my special needs / folder structure.
-
-Special thanks to AFancyDog and Foxeddev for the [Original Repository](https://github.com/foxeddev/beet-template).
-
-## License
-
-This project is licensed under [MIT License](LICENSE).
